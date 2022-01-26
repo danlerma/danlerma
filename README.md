@@ -13,3 +13,6 @@ I'm a Software Developer:
 <img src="https://badge42.herokuapp.com/api/stats/dlerma-c?privacyEmail=true" align="center" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=danlerma&count_private=true&show_icons=true&theme=dark">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlerma&layout=compact&exclude_repo=ft_server&langs_count=13&theme=dark"/>
+ 
