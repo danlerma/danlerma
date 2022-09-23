@@ -10,7 +10,7 @@ I'm a Software Developer:
 - 💬 Ask me about code and Taylor Swift.
 
 ## My stats
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z6uc5o00160gmmkqt8wruc/stats?cursusId=21&coalitionId=66" alt="dlerma-c's 42 stats" /></a>
+<!-- <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z6uc5o00160gmmkqt8wruc/stats?cursusId=21&coalitionId=66" alt="dlerma-c's 42 stats" /></a> -->
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=danlerma&count_private=true&show_icons=true&theme=dark">
